@@ -5,11 +5,11 @@ plugins {
 // Change the values below this to your mods values
 // To change the project name, edit the settings.gradle file
 
-project.ext.modID = "bolo.recipesmod" // The unique id of your mod. Must be all lowercase and cannot use special characters.
-project.ext.modName = "Bolo Recipes" // The display name of your mod.
+project.ext.modID = "bolo.sellmethiskatana" // The unique id of your mod. Must be all lowercase and cannot use special characters.
+project.ext.modName = "Sell Me This Katana!" // The display name of your mod.
 project.ext.modVersion = "1.0" // Your current builds version. Must follow the xx.xx... format.
 project.ext.gameVersion = "0.26.1" // The target game version.
-project.ext.modDescription = "Some extra recipes for existing vanilla items." // Short description of what your mod is.
+project.ext.modDescription = "Travelling Merchant no will sell you the Katana!" // Short description of what your mod is.
 project.ext.author = "Bolo" // Your name
 
 /**
