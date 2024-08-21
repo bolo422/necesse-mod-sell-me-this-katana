@@ -9,7 +9,7 @@ project.ext.modID = "bolo.sellmethiskatana" // The unique id of your mod. Must b
 project.ext.modName = "Sell Me This Katana!" // The display name of your mod.
 project.ext.modVersion = "1.0" // Your current builds version. Must follow the xx.xx... format.
 project.ext.gameVersion = "0.26.1" // The target game version.
-project.ext.modDescription = "Travelling Merchant no will sell you the Katana!" // Short description of what your mod is.
+project.ext.modDescription = "Travelling Merchant now will sell you the Katana! It's random, but you can change the chances in the config file." // Short description of what your mod is.
 project.ext.author = "Bolo" // Your name
 
 /**
